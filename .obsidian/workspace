@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "c74fc74518ecd7aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddcabe2f78daaa36",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "macropores.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "668a95228d6d3aac",
+    "type": "split",
+    "children": [
+      {
+        "id": "61f91bab7725ae81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01be7beed4619888",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0573f600c1d005a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a9e4b577c36f0216",
+    "type": "split",
+    "children": [
+      {
+        "id": "eff14ce33aebc4a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbca11fb6e8a187e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "macropores.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ddcabe2f78daaa36",
+  "lastOpenFiles": [
+    "macropores.md"
+  ]
+}
